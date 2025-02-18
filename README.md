@@ -1,4 +1,4 @@
-#Discalimer
+# Discalimer
 This code is provided for educational purposes only. It is intended to demonstrate security concepts and should not be used for malicious purposes. The author is not responsible for any misuse of this code.
 
 # Port-Scanner
